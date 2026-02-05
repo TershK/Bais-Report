@@ -43,7 +43,6 @@ README.md              # Project summary
 * Dataset is **synthetic** and for **educational purposes only**
 * Project aligns with **Responsible / Ethical AI principles**
 
----
 
 ⭐ Suitable for coursework, bias audits, and beginner AI fairness projects
 
